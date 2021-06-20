@@ -116,7 +116,7 @@ namespace calculadora
             Result = Numero1 - Numero2;
 
             Console.ForegroundColor = ConsoleColor.DarkMagenta;
-            Console.WriteLine($"\n{Numero1} + {Numero2} = {Result}");
+            Console.WriteLine($"\n{Numero1} - {Numero2} = {Result}");
             Console.ResetColor();
 
             Console.Write("\nPresione qualquer tecla para continuar: ");
