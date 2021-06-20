@@ -39,7 +39,7 @@ Atividade para a Etec AB
 
 ## Download
 
-[Download do programa](https://github.com/Maycon-15/Calculadora/tree/main/Distribui%C3%A7%C3%A3o).
+[Download do programa](https://github.com/Maycon-15/Calculadora/raw/main/Distribui%C3%A7%C3%A3o/calculadora.zip).
 
 ## Créditos
 
